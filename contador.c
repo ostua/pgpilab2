@@ -1,3 +1,6 @@
+#include<stdio.h>
+#include<stdlib.h>
+
 int contador(){
     //se declaran las dos variables contadoras para numeros par e impares
     int i,k,contadorpar =0,contadorimpar=0;

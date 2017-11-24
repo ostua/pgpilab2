@@ -1,6 +1,12 @@
-/*Hola enrique,
+//Un saludo
 
-He decidido hacer un archivo nuevo, a ver si hay suerte.
+//Este archivo estaba mal
 
-Un saludo
-*/
+int funco();
+
+int funco(){
+  return 42;
+}
+
+//ahora está bien
+
